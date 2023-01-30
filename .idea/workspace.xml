@@ -4,27 +4,157 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95ebee80-61b0-4189-b64f-0944c34d427e" name="Changes" comment="" />
+    <list default="true" id="95ebee80-61b0-4189-b64f-0944c34d427e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KeJ990MGE1LRskqBujIOxamSNA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/B103TestNGProject/src/test/java/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\B103TestNGProject\src\test\java\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Day24_DataProviderTest3.dataProviderLoginTest">
+    <configuration name="Day24_DataProviderTest1.aramaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest1" />
+      <option name="METHOD_NAME" value="aramaTesti" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day24_DataProviderTest1.googleAramasi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest1" />
+      <option name="METHOD_NAME" value="googleAramasi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day24_DataProviderTest2.dataProviderLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest2" />
+      <option name="METHOD_NAME" value="dataProviderLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day24_DataProviderTest2.dataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest2" />
+      <option name="METHOD_NAME" value="dataProviderTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day24_DataProviderTest3.dataProviderLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest3" />
+      <option name="METHOD_NAME" value="dataProviderLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Day24_DataProviderTest3.dataProviderLoginTest" />
+        <item itemvalue="TestNG.Day24_DataProviderTest2.dataProviderLoginTest" />
+        <item itemvalue="TestNG.Day24_DataProviderTest2.dataProviderTest" />
+        <item itemvalue="TestNG.Day24_DataProviderTest1.googleAramasi" />
+        <item itemvalue="TestNG.Day24_DataProviderTest1.aramaTesti" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +165,16 @@
       <updated>1674328964661</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
