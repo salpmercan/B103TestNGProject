@@ -6,7 +6,7 @@ import techproed.pages.TechproLoginPage;
 import techproed.utilities.ConfigReader;
 import techproed.utilities.Driver;
 public class Day21_TechproLoginTest {
-    @Test
+    @Test(groups = "regression-tests")
     public void loginTest(){
         //objeleri genellikle bas tarafta yer veriyoruz
         TechproLoginPage techproLoginPage = new TechproLoginPage();

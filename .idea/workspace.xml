@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95ebee80-61b0-4189-b64f-0944c34d427e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/belirliclasslar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/belirligruplar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smoketest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/dataprovider/Day25_DataProviderTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/DataProviderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091418.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091433.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091447.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091502.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Screenshots/20230202091545.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/Day19_TestNGAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day19_TestNGAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/Day21_TechproLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day21_TechproLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketests/Day22_NegativeLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketests/Day22_NegativeLoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +66,38 @@
       <recent name="C:\Users\hp\B103TestNGProject\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day24_DataProviderTest3.dataProviderLoginTest">
-    <configuration name="Day24_DataProviderTest1.aramaTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/hp/B103TestNGProject/belirligruplar.xml">
+    <configuration name="C:/Users/hp/B103TestNGProject/belirliclasslar.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirliclasslar.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/hp/B103TestNGProject/belirligruplar.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirligruplar.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/hp/B103TestNGProject/smoketest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/smoketest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day25_DataProviderTest4.customerDataTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +106,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest1" />
-      <option name="METHOD_NAME" value="aramaTesti" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day25_DataProviderTest4" />
+      <option name="METHOD_NAME" value="customerDataTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -73,7 +115,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day24_DataProviderTest1.googleAramasi" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Day25_DataProviderTest4.musteriVerileriTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
       <extension name="coverage">
         <pattern>
@@ -82,62 +124,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest1" />
-      <option name="METHOD_NAME" value="googleAramasi" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day24_DataProviderTest2.dataProviderLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B103TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest2" />
-      <option name="METHOD_NAME" value="dataProviderLoginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day24_DataProviderTest2.dataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B103TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest2" />
-      <option name="METHOD_NAME" value="dataProviderTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day24_DataProviderTest3.dataProviderLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B103TestNGProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="techproed.tests.dataprovider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="techproed.tests.dataprovider" />
-      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day24_DataProviderTest3" />
-      <option name="METHOD_NAME" value="dataProviderLoginTest" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.dataprovider.Day25_DataProviderTest4" />
+      <option name="METHOD_NAME" value="musteriVerileriTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day24_DataProviderTest3.dataProviderLoginTest" />
-        <item itemvalue="TestNG.Day24_DataProviderTest2.dataProviderLoginTest" />
-        <item itemvalue="TestNG.Day24_DataProviderTest2.dataProviderTest" />
-        <item itemvalue="TestNG.Day24_DataProviderTest1.googleAramasi" />
-        <item itemvalue="TestNG.Day24_DataProviderTest1.aramaTesti" />
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/belirligruplar.xml" />
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/belirliclasslar.xml" />
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/smoketest.xml" />
+        <item itemvalue="TestNG.Day25_DataProviderTest4.musteriVerileriTest" />
+        <item itemvalue="TestNG.Day25_DataProviderTest4.customerDataTest" />
       </list>
     </recent_temporary>
   </component>
