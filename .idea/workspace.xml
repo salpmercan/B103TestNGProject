@@ -6,30 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95ebee80-61b0-4189-b64f-0944c34d427e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129071956.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129072026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129072057.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129072128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129073629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129073638.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129073647.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129073656.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129090552.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129090602.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129090613.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129090623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129093032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129093048.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129093102.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230129093116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091418.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091433.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091447.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091531.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/Screenshots/20230202091545.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +43,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -75,30 +51,10 @@
       <recent name="C:\Users\hp\B103TestNGProject\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/hp/B103TestNGProject/paraleltesting.xml">
-    <configuration name="C:/Users/hp/B103TestNGProject/belirliclasslar.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Day27_ListenersTest3">
+    <configuration name="C:/Users/hp/B103TestNGProject/listeners1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirliclasslar.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/hp/B103TestNGProject/belirligruplar.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B103TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirligruplar.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/hp/B103TestNGProject/belirlimetotlar.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B103TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/belirlimetotlar.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners1.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -126,13 +82,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day27_ListenersTest1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.listeners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.listeners" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.listeners.Day27_ListenersTest1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day27_ListenersTest3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B103TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.listeners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.listeners" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.listeners.Day27_ListenersTest3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Day27_ListenersTest3" />
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/listeners1.xml" />
+        <item itemvalue="TestNG.Day27_ListenersTest1" />
         <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/paraleltesting.xml" />
         <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/regressiontest.xml" />
-        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/belirlimetotlar.xml" />
-        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/belirligruplar.xml" />
-        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/belirliclasslar.xml" />
       </list>
     </recent_temporary>
   </component>
