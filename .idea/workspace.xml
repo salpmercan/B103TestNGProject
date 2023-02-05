@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95ebee80-61b0-4189-b64f-0944c34d427e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketests/Day22_PositiveLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/smoketests/Day22_PositiveLoginTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="C:\Users\hp\B103TestNGProject\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day27_ListenersTest3">
+  <component name="RunManager" selected="TestNG.C:/Users/hp/B103TestNGProject/testng.xml">
     <configuration name="C:/Users/hp/B103TestNGProject/listeners1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners1.xml" />
@@ -62,9 +63,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/hp/B103TestNGProject/paraleltesting.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/hp/B103TestNGProject/listeners2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/paraleltesting.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners2.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -72,12 +73,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/hp/B103TestNGProject/regressiontest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/hp/B103TestNGProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B103TestNGProject" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/regressiontest.xml" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.SuiteHTMLReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,13 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/listeners1.xml" />
+      <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/listeners2.xml" />
+      <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/testng.xml" />
+      <item itemvalue="TestNG.Day27_ListenersTest1" />
+      <item itemvalue="TestNG.Day27_ListenersTest3" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/listeners2.xml" />
         <item itemvalue="TestNG.Day27_ListenersTest3" />
         <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/listeners1.xml" />
         <item itemvalue="TestNG.Day27_ListenersTest1" />
-        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/paraleltesting.xml" />
-        <item itemvalue="TestNG.C:/Users/hp/B103TestNGProject/regressiontest.xml" />
       </list>
     </recent_temporary>
   </component>
